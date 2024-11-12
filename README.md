@@ -36,6 +36,7 @@ Upon evaluation, the model will generate a `submission.csv` file. This file cont
 1. **Download the model** before starting the fine-tuning process.
 2. Verify that **file paths** for inputs and outputs are correctly specified in the appropriate sections of your code.
 3. Confirm that your Hugging Face **authentication tokens** are created and up-to-date.
+4. Recommended to use Kaggle
 
 Feel free to experiment with different models and configurations to gain a deeper understanding of model performance across various question-answer datasets.
 
